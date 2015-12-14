@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SSO.WebSite2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SSO_WebSite2_localhost_TokenService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:64944/TokenService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,5 @@
+E:\work\SSOProjects\Skynetfy.SSO\SSO.Core\bin\Debug\SSO.Core.dll
+E:\work\SSOProjects\Skynetfy.SSO\SSO.Core\bin\Debug\SSO.Core.pdb
+E:\work\SSOProjects\Skynetfy.SSO\SSO.Core\obj\Debug\SSO.Core.dll
+E:\work\SSOProjects\Skynetfy.SSO\SSO.Core\obj\Debug\SSO.Core.pdb
+E:\work\SSOProjects\Skynetfy.SSO\SSO.Core\obj\Debug\SSO.Core.csprojResolveAssemblyReference.cache
